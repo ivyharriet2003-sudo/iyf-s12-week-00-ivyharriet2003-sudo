@@ -1,13 +1,6 @@
-# My IYF Portfolio
+# IYF Season 12 - Week 0 - Ivy Harriet Isamisi
 
-**Name:** Ivy Harriet Isamisi
-**Track:** Software Development
-**Cohort:** 2026
+### About Me
+I am Ivy Harriet Isamisi, learning computer programming at IYF Academy Kasarani, Season 12.
 
-## About Me
-I am learning Git & GitHub at IYF. I love coding and teamwork.
-
-## Goals
-- Learn GitHub flow
-- Build portfolio
-- Get internship
+### Setup - Task 0.2
